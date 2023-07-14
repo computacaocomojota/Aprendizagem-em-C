@@ -3,6 +3,7 @@ Olá, meu nome é João Vitor e sou estudante do curso de Ciência da Computaç�
 
 Ordem dos contéudos do 1º Semestre em Linguagem de Programação I:
 
+
 1º Tipos de dados básicos e seus operadores
 2º Estruturas de Controle de Fluxo
 3º Utilizando Funções
