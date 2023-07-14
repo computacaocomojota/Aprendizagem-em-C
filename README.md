@@ -1,4 +1,4 @@
-# Aprendizagem-em-C
+#Aprendizagem-em-C
 Olá, meu nome é João Vitor e sou estudante do curso de Ciência da Computação da Universidade Estadual de Santa Cruz. A criação desse repositório tem como finalidade acompanhar a minha evolução no desenvolvimento de aplicações ao longo do curso.
 
 Ordem dos contéudos do 1º Semestre em Linguagem de Programação I:
